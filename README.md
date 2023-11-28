@@ -3,6 +3,4 @@ Repository of the paper SE(3)-Equivariant Attention Networks for Shape Reconstru
 
 Code Coming Soon!
 
-
-https://github.com/vaghato/TFONet/assets/42683122/b46bbbdb-f7a5-41f0-8b4e-faeed71302b4
-
+![TFONet](https://github.com/vaghato/TFONet/assets/42683122/a5d462a3-6446-4118-aa9a-204e62c95ec6)

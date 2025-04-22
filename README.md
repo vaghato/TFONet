@@ -1,7 +1,12 @@
 # TFONet
 Repository of the paper SE(3)-Equivariant Attention Networks for Shape Reconstruction in Function Space
 
-Code Coming Soon!
+Code and Pretrained Models Coming Soon!
+
+A preliminary version of the code can be found in the supplementary material of the ICLR submission here:
+https://openreview.net/forum?id=RDy3IbvjMqT
+
+
 
 ![TFONet](https://github.com/vaghato/TFONet/assets/42683122/a5d462a3-6446-4118-aa9a-204e62c95ec6)
 
